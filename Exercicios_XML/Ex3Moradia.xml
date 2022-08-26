@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Moradia>    
+    <Tipo>
+        <Apartamento>Moema</Apartamento>
+        <Quarto>2</Quarto>
+        <Suite>1</Suite>
+        <Sala>Com internet</Sala>
+    </Tipo>    
+    <Cozinha>
+        <Forno>Imbutido</Forno>
+        <Geladeira>Duplex</Geladeira>
+        <Torneira>água quente</Torneira>
+        <Microondas>Grande</Microondas>
+    </Cozinha>    
+    <caracteristicas>
+        <Proprietário>Luciana</Proprietário>
+        <Andar>24</Andar>
+        <Condominio>true</Condominio>
+        <Seguro>Pago</Seguro>
+    </caracteristicas>                
+</Moradia>

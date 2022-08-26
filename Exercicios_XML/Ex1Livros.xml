@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Livros>
+    <!-- Exercício 1 Livros -->
+    <Livro id="1">
+        <ISBN>ISBN-0-13-713526-2</ISBN>
+        <Preço>85,00</preço>
+        <Edição>3</Edição>
+        <Títuto>A First Course in Database Systems</Títuto>
+        <Autores>
+            <Autor>Jeffrey Ullman</Autor>         
+            <Autor>Jennifer Widom</Autor>
+            <Autor>Pressman</Autor>
+        <Autores/>
+        <Editora></Editora>
+    </Livro>
+    <Livro id="2">
+        <ISBN>ISBN-0-13-815504-6</ISBN>
+        <Preço>100,00</preço>
+        <Nota>Compre também o livro A First Course e 
+            faça um excelente negócio!</Nota>
+        <Títuto>Database systems:The Complete Livro</Títuto>
+        <Autores>
+            <Autor>Hector Garcia-Molina</Autor>         
+            <Autor>Jeffrey Ullman</Autor>
+            <Autor>Jennifer Widom</Autor>
+        <Autores/>
+        <Editora>Saraiva</Editora>
+    </Livro>    
+    <Livro id="3">
+        <ISBN>B019OZ902U</ISBN>
+        <Preço>70,00</preço>
+        <Nota>Compre também o livro A First Course e 
+            faça um excelente negócio!</Nota>
+        <Títuto>MongoDB</Títuto>
+        <Autores>
+            <Autor>Fernando Boaglio</Autor>                     
+        <Autores/>
+        <Editora>Casa do Código</Editora>
+    </Livro>    
+</Livros>
+<Revistas>
+    <Revista id="1">
+        <Título>National Geographic</Título>
+        <Mês>Janeiro</Mês>
+        <Ano>2021</Ano>            
+    </Revista>
+    <Revista id="2">
+        <Título>Newsweek</Título>
+        <Mês>Fevereiro</Mês>
+        <Ano>2021</Ano>            
+    </Revista>
+    <Revista id="3">
+        <Título>MundoJava</Título>
+        <Mês>Abril</Mês>
+        <Ano>2021</Ano>            
+    </Revista>
+</Revistas>
