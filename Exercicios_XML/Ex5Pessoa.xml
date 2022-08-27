@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pessoas>
     <pessoa id="1">
-        <Nome>João Pedro<Nome/>
+        <Nome>João Pedro</Nome>
         <idade>25</idade>
         <Sexo>masculino</Sexo>
         <peso>80</peso>
         <escolaridade>
-            <Ensino_Médio>sim</Ensino_Médio><!--Dúvida-->
-            <Graduação>sim</Graduação>
-            <Pós_Graduação>não</Pós_Graduação>
+            <Ensino_Medio>sim</Ensino_Medio>
+            <Graduacao>sim</Graduacao>
+            <Pos_Graduacao>não</Pos_Graduacao>
             <Mestrado>não</Mestrado>
             <Doutorado>não</Doutorado>        
         </escolaridade>
     </pessoa>
     <pessoa id="2">
-        <Nome>João Pedro<Nome/>
+        <Nome>João Pedro</Nome>
         <idade>25</idade>
         <Sexo>masculino</Sexo>
         <peso>55</peso>
         <escolaridade>
-            <Ensino_Médio>sim</Ensino_Médio>
-            <Graduação>sim</Graduação>
-            <Pós_Graduação>sim</Pós_Graduação>
+            <Ensino_Medio>sim</Ensino_Medio>
+            <Graduacao>sim</Graduacao>
+            <Pos_Graduacao>sim</Pos_Graduacao>
             <Mestrado>não</Mestrado>
             <Doutorado>não</Doutorado>        
         </escolaridade>
     </pessoa>
     <pessoa id="3">
-        <Nome>Maria Aparecida<Nome/>
+        <Nome>Maria Aparecida</Nome>
         <idade>45</idade>
         <Sexo>feminino</Sexo>
         <peso>65</peso>
         <escolaridade>
-            <Ensino_Médio>sim</Ensino_Médio>
-            <Graduação>sim</Graduação>
-            <Pós_Graduação>sim</Pós_Graduação>
+            <Ensino_Medio>sim</Ensino_Medio>
+            <Graduacao>sim</Graduacao>
+            <Pos_Graduacao>sim</Pos_Graduacao>
             <Mestrado>sim</Mestrado>
             <Doutorado>sim</Doutorado>        
         </escolaridade>
     </pessoa>
     <pessoa id="4">
-        <Nome>Luciana do val<Nome/>
+        <Nome>Luciana do val</Nome>
         <idade>20</idade>
         <Sexo>feminino</Sexo>
         <peso>58</peso>
         <escolaridade>
-            <Ensino_Médio>sim</Ensino_Médio>
-            <Graduação>sim</Graduação>
-            <Pós_Graduação>sim</Pós_Graduação>
+            <Ensino_Medio>sim</Ensino_Medio>
+            <Graduacao>sim</Graduacao>
+            <Pos_Graduacao>sim</Pos_Graduacao>
             <Mestrado>sim</Mestrado>
             <Doutorado>não</Doutorado>        
         </escolaridade>
     </pessoa>
     <pessoa id="5">
-        <Nome>Marcia Pereira<Nome/>
+        <Nome>Marcia Pereira</Nome>
         <idade>21</idade>
         <Sexo>feminino</Sexo>
         <peso>69</peso>
         <escolaridade>
-            <Ensino_Médio>sim</Ensino_Médio>
-            <Graduação>sim</Graduação>
-            <Pós_Graduação>sim</Pós_Graduação>
+            <Ensino_Medio>sim</Ensino_Medio>
+            <Graduacao>sim</Graduacao>
+            <Pos_Graduacao>sim</Pos_Graduacao>
             <Mestrado>sim</Mestrado>
             <Doutorado>sim</Doutorado>        
         </escolaridade>

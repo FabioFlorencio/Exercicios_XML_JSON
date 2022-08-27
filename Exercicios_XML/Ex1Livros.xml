@@ -3,53 +3,53 @@
     <!-- Exercício 1 Livros -->
     <Livro id="1">
         <ISBN>ISBN-0-13-713526-2</ISBN>
-        <Preço>85,00</preço>
-        <Edição>3</Edição>
-        <Títuto>A First Course in Database Systems</Títuto>
+        <Preco>85.00</Preco>
+        <Edicao>3</Edicao>
+        <Titulo>A First Course in Database Systems</Titulo>
         <Autores>
             <Autor>Jeffrey Ullman</Autor>         
             <Autor>Jennifer Widom</Autor>
             <Autor>Pressman</Autor>
-        <Autores/>
-        <Editora></Editora>
+        </Autores>
+        <Editora>Pressman</Editora>
     </Livro>
     <Livro id="2">
         <ISBN>ISBN-0-13-815504-6</ISBN>
-        <Preço>100,00</preço>
+        <Preco>100.00</Preco>
         <Nota>Compre também o livro A First Course e faça um excelente negócio!</Nota>
-        <Títuto>Database systems:The Complete Livro</Títuto>
+        <Titulo>Database systems:The Complete Livro</Titulo>
         <Autores>
             <Autor>Hector Garcia-Molina</Autor>         
             <Autor>Jeffrey Ullman</Autor>
             <Autor>Jennifer Widom</Autor>
-        <Autores/>
+        </Autores>
         <Editora>Saraiva</Editora>
     </Livro>    
     <Livro id="3">
         <ISBN>B019OZ902U</ISBN>
-        <Preço>70,00</preço>
+        <Preco>70.00</Preco>
         <Nota>Compre também o livro A First Course e faça um excelente negócio!</Nota>
-        <Títuto>MongoDB</Títuto>
+        <Titulo>MongoDB</Titulo>
         <Autores>
             <Autor>Fernando Boaglio</Autor>                     
-        <Autores/>
+        </Autores>
         <Editora>Casa do Código</Editora>
     </Livro>    
 </Livros>
 <Revistas>
     <Revista id="1">
-        <Título>National Geographic</Título>
-        <Mês>Janeiro</Mês>
+        <Titulo>National Geographic</Titulo>
+        <Mes>Janeiro</Mes>
         <Ano>2021</Ano>            
     </Revista>
     <Revista id="2">
-        <Título>Newsweek</Título>
-        <Mês>Fevereiro</Mês>
+        <Titulo>Newsweek</Titulo>
+        <Mes>Fevereiro</Mes>
         <Ano>2021</Ano>            
     </Revista>
     <Revista id="3">
-        <Título>MundoJava</Título>
-        <Mês>Abril</Mês>
+        <Titulo>MundoJava</Titulo>
+        <Mes>Abril</Mes>
         <Ano>2021</Ano>            
     </Revista>
 </Revistas>

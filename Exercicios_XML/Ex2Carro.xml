@@ -2,7 +2,7 @@
 <Carros>
     <Carro id="1">
         <Modelo>Onix</Modelo>
-        <Preço>96500</Preço>
+        <Preco>96500</Preco>
         <Motor>1.0</Motor>
         <Porta>Quatros portas</Porta>
         <Cores>
@@ -10,14 +10,14 @@
             <Preto>Piano</Preto>
             <Azul>Céu</Azul>
         </Cores>
-        <Proprietário>João da Silva</Proprietário>
+        <Proprietario>João da Silva</Proprietario>
         <Placa>FGS0149</Placa>
         <IPVA_pago>true</IPVA_pago>
         <Seguro>Pago</Seguro>                
     </Carro>
     <Carro id="2">
         <Modelo>Pulse</Modelo>
-        <Preço>126500</Preço>
+        <Preco>126500</Preco>
         <Motor>1.3</Motor>
         <Porta>Quatro portas</Porta>
         <Cores>
@@ -25,14 +25,14 @@
             <Preto>Azulado</Preto>
             <Azul>Carmin</Azul>
         </Cores>
-        <Proprietário>Carlos Pereira</Proprietário>
+        <Proprietario>Carlos Pereira</Proprietario>
         <Placa>FAT2148</Placa>
         <IPVA_pago>false</IPVA_pago>
         <Seguro>Sem seguro</Seguro>                
     </Carro>
     <Carro id="3">
         <Modelo>Fusion</Modelo>
-        <Preço>75000</Preço>
+        <Preco>75000</Preco>
         <Motor>3</Motor>
         <Porta>Quatro portas</Porta>
         <Cores>
@@ -40,7 +40,7 @@
             <Preto>Escuro</Preto>
             <Azul>Cumbo</Azul>
         </Cores>
-        <Proprietário>Luiz</Proprietário>
+        <Proprietario>Luiz</Proprietario>
         <Placa>FUS2199</Placa>
         <IPVA_pago>true</IPVA_pago>
         <Seguro>Com seguro</Seguro>                

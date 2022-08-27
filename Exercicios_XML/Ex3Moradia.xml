@@ -14,7 +14,7 @@
         <Microondas>Grande</Microondas>
     </Cozinha>    
     <caracteristicas>
-        <Proprietário>Luciana</Proprietário>
+        <Proprietario>Luciana</Proprietario>
         <Andar>24</Andar>
         <Condominio>true</Condominio>
         <Seguro>Pago</Seguro>
