@@ -16,8 +16,7 @@
     <Livro id="2">
         <ISBN>ISBN-0-13-815504-6</ISBN>
         <Preço>100,00</preço>
-        <Nota>Compre também o livro A First Course e 
-            faça um excelente negócio!</Nota>
+        <Nota>Compre também o livro A First Course e faça um excelente negócio!</Nota>
         <Títuto>Database systems:The Complete Livro</Títuto>
         <Autores>
             <Autor>Hector Garcia-Molina</Autor>         
@@ -29,8 +28,7 @@
     <Livro id="3">
         <ISBN>B019OZ902U</ISBN>
         <Preço>70,00</preço>
-        <Nota>Compre também o livro A First Course e 
-            faça um excelente negócio!</Nota>
+        <Nota>Compre também o livro A First Course e faça um excelente negócio!</Nota>
         <Títuto>MongoDB</Títuto>
         <Autores>
             <Autor>Fernando Boaglio</Autor>                     

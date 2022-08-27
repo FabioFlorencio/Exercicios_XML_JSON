@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Carros>
-    <Carro>
+    <Carro id="1">
         <Modelo>Onix</Modelo>
         <Preço>96500</Preço>
         <Motor>1.0</Motor>
@@ -12,10 +12,10 @@
         </Cores>
         <Proprietário>João da Silva</Proprietário>
         <Placa>FGS0149</Placa>
-        <IPVA pago>true</IPVA pago><!--Duvida tag composta-->
+        <IPVA_pago>true</IPVA_pago>
         <Seguro>Pago</Seguro>                
     </Carro>
-    <Carro>
+    <Carro id="2">
         <Modelo>Pulse</Modelo>
         <Preço>126500</Preço>
         <Motor>1.3</Motor>
@@ -27,10 +27,10 @@
         </Cores>
         <Proprietário>Carlos Pereira</Proprietário>
         <Placa>FAT2148</Placa>
-        <IPVA pago>false</IPVA pago>
+        <IPVA_pago>false</IPVA_pago>
         <Seguro>Sem seguro</Seguro>                
     </Carro>
-    <Carro>
+    <Carro id="3">
         <Modelo>Fusion</Modelo>
         <Preço>75000</Preço>
         <Motor>3</Motor>
@@ -42,9 +42,7 @@
         </Cores>
         <Proprietário>Luiz</Proprietário>
         <Placa>FUS2199</Placa>
-        <IPVA pago>true</IPVA pago>
+        <IPVA_pago>true</IPVA_pago>
         <Seguro>Com seguro</Seguro>                
     </Carro>
-    <></>
-    <></>
 </Carros>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Exercício 4 Pessoa -->
+<pessoas>
+    <pessoa id="1">
+        <Nome>João Pedro<Nome/>
+        <idade>25</idade>
+        <Sexo>masculino</Sexo>
+        <escolaridade>Graduação</escolaridade>
+        <peso>80</peso>   
+    </pessoa>  
+    <pessoa id="2">
+        <Nome>João Pedro<Nome/>
+        <idade>25</idade>
+        <Sexo>masculino</Sexo>
+        <escolaridade>Pós-Graduação</escolaridade>
+        <peso>55</peso>   
+    </pessoa>
+    <pessoa id="3">
+        <Nome>Maria Aparecida<Nome/>
+        <idade>45</idade>
+        <Sexo>feminino</Sexo>
+        <escolaridade>Pós-Graduação</escolaridade>
+        <peso>65</peso>   
+    </pessoa>
+    <pessoa id="4">
+        <Nome>Luciana do Val<Nome/>
+        <idade>20</idade>
+        <Sexo>feminino</Sexo>
+        <escolaridade>Ensino Médio</escolaridade>
+        <peso>58</peso>   
+    </pessoa>
+    <pessoa id="5">
+        <Nome>Marcia Pereira<Nome/>
+        <idade>21</idade>
+        <Sexo>feminino</Sexo>
+        <escolaridade>Ensino médio</escolaridade>
+        <peso>69</peso>   
+    </pessoa>
+    <pessoa id="6">
+        <Nome>Gislena<Nome/>
+        <idade>47</idade>
+        <Sexo>feminino</Sexo>
+        <escolaridade>Pós-Graduação</escolaridade>
+        <peso>51</peso>   
+    </pessoa>
+</pessoas>
