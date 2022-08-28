@@ -1,0 +1,48 @@
+{
+    "Carro": [{
+            "Modelo": "Onix",
+            "Preco": "96500",
+            "Motor": "1.0",
+            "Porta": "Quatros portas",
+            "Cores": {
+                "Branco":"Perola",
+                "Preto":"Piano",
+                "Azul":"Céu"
+        },        
+            "Proprietario": "João da Silva",
+            "Placa": "FGS0149",   
+            "IPVA_pago": "true",
+            "Seguro" : "pago"
+        },
+        {
+            "Modelo": "Pulse",
+            "Preco": "126500",
+            "Motor": "1.3",
+            "Porta": "Quatro portas",
+            "Cores": {
+                "Branco":"Neve",
+                "Preto":"Azulado",
+                "Azul":"Carmin"
+        },        
+            "Proprietario": "Carlos Pereira",
+            "Placa": "FAT2148",   
+            "IPVA_pago": "false",
+            "Seguro" : "Sem seguro"            
+        },
+        {
+            "Modelo": "Fusion",
+            "Preco": "75000",
+            "Motor": "3",
+            "Porta": "Quatro portas",
+            "Cores": {
+                "Branco":"Vulcano",
+                "Preto":"Escuro",
+                "Azul":"Cumbo"
+        },        
+            "Proprietario": "Luiz",
+            "Placa": "FUS2199",   
+            "IPVA_pago": "true",
+            "Seguro" : "Com seguro"            
+        }
+    ]
+}    

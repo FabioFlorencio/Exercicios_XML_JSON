@@ -1,0 +1,26 @@
+{
+    "Moradia": [{
+            "Tipo": [{
+                "Apartamento": "Moema",
+                "Quarto": "2",
+                "Suite": "1",
+                "Sala": "Com internet"
+                }
+            ],
+            "Cozinha": [{
+                "Forno": "Imbutido",
+                "Geladeira": "Duplex",
+                "Torneira": "água quente",
+                "Microondas": "Grande"
+                }
+            ],    
+            "caracteristicas": [{
+                "Proprietario": "Luciana",
+                "Andar": "24",
+                "Condominio": "true",
+                "Seguro": "Pago"           
+                }            
+            ]            
+        }
+    ]   
+}
