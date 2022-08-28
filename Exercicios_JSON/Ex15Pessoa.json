@@ -1,0 +1,73 @@
+{
+    "pessoas": [{
+            "ID": "1",
+            "Nome" :"João Pedro",
+            "Idade" :"25",
+            "Sexo" :"Masculino",
+            "Peso" :"80",
+            "Escolaridade": {
+                "Ensino_Medio": "Sim",
+                "Graduacao": "Sim",
+                "Pos_Graduacao": "Não",
+                "Mestrado": "Não",
+                "Doutorado": "Não"                    
+            }
+        },
+        {
+            "ID": "2",
+            "Nome" :"João Pedro",
+            "Idade" :"25",
+            "Sexo" :"Masculino",
+            "Peso" :"55",
+            "Escolaridade": {
+                "Ensino_Medio": "Sim",
+                "Graduacao": "Sim",
+                "Pos_Graduacao": "Sim",
+                "Mestrado": "Não",
+                "Doutorado": "Não"                    
+            }
+        },
+        {
+            "ID": "3",
+            "Nome" :"Maria Aparecida",
+            "Idade" :"45",
+            "Sexo" :"Feminino",
+            "Peso" :"65",
+            "Escolaridade": {
+                "Ensino_Medio": "Sim",
+                "Graduacao": "Sim",
+                "Pos_Graduacao": "Sim",
+                "Mestrado": "Sim",
+                "Doutorado": "Sim"                    
+            }
+        },
+        {
+            "ID": "4",
+            "Nome" :"Luciana do val",
+            "Idade" :"20",
+            "Sexo" :"Feminino",
+            "Peso" :"58",
+            "Escolaridade": {
+                "Ensino_Medio": "Sim",
+                "Graduacao": "Sim",
+                "Pos_Graduacao": "Sim",
+                "Mestrado": "Sim",
+                "Doutorado": "Não"                    
+            }
+        },
+        {
+            "ID": "5",
+            "Nome" :"Marcia Pereira",
+            "Idade" :"21",
+            "Sexo" :"Feminino",
+            "Peso" :"69",
+            "Escolaridade": {
+                "Ensino_Medio": "Sim",
+                "Graduacao": "Sim",
+                "Pos_Graduacao": "Sim",
+                "Mestrado": "Sim",
+                "Doutorado": "Sim"                    
+            }
+        }
+    ]
+}
