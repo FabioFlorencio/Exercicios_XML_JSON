@@ -1,6 +1,5 @@
 {    
     "Livros":[{
-            "ID": "1",
             "ISBN": "ISBN-0-13-713526-2",
             "Preco": "85.00",
             "Edicao": "3",
@@ -9,7 +8,6 @@
             "Editora": "Pressman"                                        
         },
         {
-            "ID": "2",
             "ISBN": "ISBN-0-13-815504-6",
             "Preco": "100.00",
             "Nota": "Compre também o livro A First Course e faça um excelente negócio!",
@@ -18,7 +16,6 @@
             "Editora": "Saraiva"
         },
         {
-            "ID": "3",
             "ISBN": "B019OZ902U ",
             "Preco": "70.00",
             "Nota": "Compre também o livro A First Course e faça um excelente negócio!",
